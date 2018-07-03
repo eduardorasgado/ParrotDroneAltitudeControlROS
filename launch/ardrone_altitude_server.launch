@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="ardrone_altitude" type="ar_altitude_as_server.py" name="parrot_altitude_server_node" output="screen"/>
+</launch>
