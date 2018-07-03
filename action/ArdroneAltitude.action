@@ -1,0 +1,8 @@
+#goal
+std_msgs/String goal 
+---
+#result
+std_msgs/Empty result
+---
+#feedback
+std_msgs/String feedback
